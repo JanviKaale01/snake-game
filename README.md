@@ -10,6 +10,9 @@ A classic Snake Game built using **HTML, CSS, and JavaScript**. Control the snak
 - Game Over detection.
 - Restart functionality.
 
+## 🚀 Live Demo
+[Play Snake Game](https://janvikaale01.github.io/snake-game/)
+
 ## 🛠️ Technologies Used
 - HTML5
 - CSS3
